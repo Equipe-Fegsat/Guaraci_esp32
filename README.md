@@ -125,6 +125,4 @@ Placa: **ESP32** (instale o pacote "esp32" da Espressif no Gerenciador de Placas
 
 Projeto desenvolvido pela **FegSat**, equipe de nanossatélites da Unesp Guaratinguetá.
 
-## Licença
 
-[Defina a licença, ex.: MIT, ou remova esta seção.]
