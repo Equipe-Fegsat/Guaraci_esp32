@@ -1,4 +1,4 @@
-# FegSat – CubeSat e Balão Simulado
+# FegSat – Guaraci e Balão Simulado
 
 Repositório com os códigos de firmware usados na simulação da comunicação entre o **satélite principal (CubeSat)** e um **balão simulado**, desenvolvidos pela equipe FegSat (Unesp Guaratinguetá).
 
